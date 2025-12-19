@@ -36,14 +36,11 @@ A **real-time chat application** built using the **MERN stack** with user authen
 ---
 
 ## 📸 Screenshots
-
-> 📌 **How to add screenshots**
-1. Create a folder named `screenshots` in the root of your project
-2. Paste your images inside it
-3. Use the format below
-
-```md
 ![Login Page](login.PNG)
 ![Signup Page](signup.PNG)
 ![Search](search.PNG)
 ![Real-Time](real-time.PNG)
+
+```md
+
+
